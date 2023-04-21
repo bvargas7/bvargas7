@@ -1,5 +1,19 @@
-### Hi there 👋
+### Hi Everyone  👋
 
+##:tw-1f337:Blanca Vargas :tw-1f337:
+
+
+<img src="https://img.shields.io/badge/-About%20me-blue" height="33">
+
+
+  - 🔭 I’m currently working on  ***Portfolio***
+  - 🌱 I’m currently learning ***Java/Javascript***
+  - 🤔 I’m looking for help with ***desing***
+  - 💬 Ask me about ***Anything***
+  - 📫 How to reach me: dalimistura@gmail.com
+  - 😄 Pronouns: she/her
+  - ⚡ Fun fact: ***we are stardust***
+------------
 
 
 
