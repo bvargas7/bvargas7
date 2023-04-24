@@ -8,9 +8,10 @@
 
   - 🤔  This is my Portafolio
   - 🌱 I’m currently learning ***Front End***
-    - 💬 Ask me about ***QA, FRONT END, DATA ANALYSIS***
+  - 💬 Ask me about ***QA, FRONT END, DATA ANALYSIS***
   - 📫 How to reach me: b7lanca@gmail.com
   - 😄 Pronouns: she/her
+  
 ------------
 
 
