@@ -43,5 +43,19 @@
 #### Diseño y herramientas
 [![My Skills](https://skillicons.dev/icons?i=figma,git,github,ai&perline)](https://skillicons.dev)<img height="45" src="https://th.bing.com/th/id/OIP.k4jExD7SQvt45d73lj1HsAHaHa?pid=ImgDet&w=4088&h=4088&rs=1">
 
-#### Soft Skills
-<img height="70" src="https://www.anglocolombiano.edu.co/images/SER/inclusion.png"> <img height="70" src="https://icon-library.com/images/listen-icon-png/listen-icon-png-17.jpg">  <img height="70" src="https://mla-s1-p.mlstatic.com/874078-MLA25637741649_062017-F.jpg"> <img height="70" src="https://thumbs.dreamstime.com/b/elija-resolver-o-continuar-los-conflictos-resoluci%C3%B3n-de-conflicto-31864653.jpg">
+
+------------
+<img src="https://img.shields.io/badge/-Soft%20Skills-blue" height="33">
+
+- Trabajo en equipo
+-  Liderazgo
+-  Comunicación
+-  Adaptabilidad
+-  Creatividad
+-  Etica Profesional
+-  Resolucion de Problemas
+-  Resiliencia
+-  Atención al detalle
+-  Administración del tiempo
+    
+ 
