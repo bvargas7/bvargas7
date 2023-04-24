@@ -1,6 +1,6 @@
 ### Hi Everyone  👋
 
-##:tw-1f337:Blanca Vargas :tw-1f337:
+## :tw-1f337:My name is Blanca Vargas:tw-1f337:
 
 
 <img src="https://img.shields.io/badge/-About%20me-blue" height="33">
