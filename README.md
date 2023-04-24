@@ -6,10 +6,9 @@
 <img src="https://img.shields.io/badge/-About%20me-blue" height="33">
 
 
- - :tw-1f4bc: This is my Portafolio
+  - 🤔  This is my Portafolio
   - 🌱 I’m currently learning ***Front End***
-  - 🤔 I’m looking for help with ***desing***
-  - 💬 Ask me about ***QA, FRONT END***
+    - 💬 Ask me about ***QA, FRONT END, DATA ANALYSIS***
   - 📫 How to reach me: b7lanca@gmail.com
   - 😄 Pronouns: she/her
 ------------
