@@ -6,13 +6,12 @@
 <img src="https://img.shields.io/badge/-About%20me-blue" height="33">
 
 
-  - 🔭 I’m currently working on  ***Portfolio***
-  - 🌱 I’m currently learning ***Java/Javascript***
+ - :tw-1f4bc: This is my Portafolio
+  - 🌱 I’m currently learning ***Front End***
   - 🤔 I’m looking for help with ***desing***
-  - 💬 Ask me about ***Anything***
-  - 📫 How to reach me: dalimistura@gmail.com
+  - 💬 Ask me about ***QA, FRONT END***
+  - 📫 How to reach me: b7lanca@gmail.com
   - 😄 Pronouns: she/her
-  - ⚡ Fun fact: ***we are stardust***
 ------------
 
 
