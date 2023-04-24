@@ -32,7 +32,7 @@
 ######  - Licenciatura en Ciencias Computacionales
 
 ------------
-<img src="https://img.shields.io/badge/-Softwer%20-blue" height="33">
+<img src="https://img.shields.io/badge/-Software%20-blue" height="33">
 
 #### Desarrollo web
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,vscode)](https://skillicons.dev)
