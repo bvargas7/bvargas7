@@ -7,8 +7,8 @@
 
 
   - 🤔  This is my Portafolio
-  - 🌱 I’m currently learning ***Front End***
-  - 💬 Ask me about ***QA, FRONT END, DATA ANALYSIS***
+  - 🌱 I’m currently QA Coordinator
+  - 💬 Ask me about ***QA, FRONT END, DATA ANALYSIS, AUTOMATION***
   - 📫 How to reach me: b7lanca@gmail.com
   - 😄 Pronouns: she/her
   
