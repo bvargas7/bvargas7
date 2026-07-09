@@ -38,10 +38,10 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,vscode)](https://skillicons.dev)
 
 #### Testing
-[![My Skills](https://skillicons.dev/icons?i=postman,mysql,selenium&perline,azure)](https://skillicons.dev) <img height="55" src="https://clipground.com/images/jira-logo-clipart-2.png" > <img height="50" src="https://i.imgur.com/yr11S8M.png" > <img width="70" src="https://www.inclusionhub.com/hubfs/resource%20logos/Accessibility%20Scanner%20Logomark.png">
+<img height="55" src="https://clipground.com/images/jira-logo-clipart-2.png" > <img height="50" src="https://i.imgur.com/yr11S8M.png" > <img width="70" src="https://www.inclusionhub.com/hubfs/resource%20logos/Accessibility%20Scanner%20Logomark.png">
 
 #### Diseño y herramientas
-[![My Skills](https://skillicons.dev/icons?i=figma,git,github,ai&perline)](https://skillicons.dev)<img height="45" src="https://th.bing.com/th/id/OIP.k4jExD7SQvt45d73lj1HsAHaHa?pid=ImgDet&w=4088&h=4088&rs=1">
+<img height="45" src="https://th.bing.com/th/id/OIP.k4jExD7SQvt45d73lj1HsAHaHa?pid=ImgDet&w=4088&h=4088&rs=1">
 
 
 ------------
